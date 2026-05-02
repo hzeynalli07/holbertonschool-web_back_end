@@ -1,1 +1,1 @@
- i am learning programming
+coding is hard
