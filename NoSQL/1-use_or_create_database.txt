@@ -1,2 +1,0 @@
-// use or create database
-use my_db
